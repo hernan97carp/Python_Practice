@@ -4,7 +4,6 @@ my_boolean = True
 my_int = 2
 my_float = 2.5
 
-print(f"Hello, this is a boolean which is {my_boolean}. The value of the int is {my_int} and the value of the float is {my_float}!")
 
 # Introduction
 # Day 1 - 30DaysOfPython Challenge
