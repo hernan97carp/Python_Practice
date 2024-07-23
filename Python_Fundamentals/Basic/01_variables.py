@@ -25,7 +25,7 @@ person_info = {
 
 print(skills)
 print(type(skills))
-print(person_info)
+print(type(person_info))
 
 
 # Concatenation using f-strings

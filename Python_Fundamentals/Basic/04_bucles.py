@@ -25,3 +25,4 @@ print("Smallest:", smallest)
 for n in "banana":
     print(n)
     
+
